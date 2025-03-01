@@ -1529,7 +1529,7 @@ a.stiky-logo img {
 .carousel-slider-content h5 {
   font-size: 20px;
   letter-spacing: 2px;
-  border-top: 2px solid #FF3C00;
+  border-top: 2px solid #CC2026;
   display: inline-block;
   margin-bottom: 25px;
   text-transform: uppercase;
@@ -1541,13 +1541,13 @@ a.stiky-logo img {
 
 .btn-common.btn-carousel-slider-2 a {
   background: transparent;
-  color: #FF3C00;
+  color: #CC2026;
 }
 
 .btn-common.btn-carousel-slider-2:hover a {
-  background: #FF3C00;
+  background: #CC2026;
   color: #fff;
-  border-color: #Ff3C00;
+  border-color: #cc2026;
 }
 
 .video-icon .carousel-video {
@@ -5738,7 +5738,7 @@ button:focus {
   top: 50%;
   height: 1px;
   width: 15px;
-  background: #FF3C00;
+  background: #CC2026;
   visibility: hidden;
   opacity: 0;
   transition: .3s;
@@ -5749,11 +5749,11 @@ button:focus {
 }
 
 .menu-wrapper .sub-menu li:hover a {
-  color: #FF3C00 !important;
+  color: #CC2026 !important;
 }
 
 .menu-wrapper .sub-menu li:hover a i {
-  color: #FF3C00 !important;
+  color: #CC2026 !important;
 }
 
 .menu-wrapper .sub-menu li:hover a::after {
@@ -5805,7 +5805,7 @@ button:focus {
   top: 50%;
   height: 1px;
   width: 15px;
-  background: #FF3C00;
+  background: #CC2026;
   visibility: hidden;
   opacity: 0;
   transition: .3s;
@@ -5829,7 +5829,7 @@ button:focus {
 }
 
 .menu-wrapper .sub-menu .inner-sub-menu li:hover a {
-  color: #FF3C00 !important;
+  color: #CC2026 !important;
 }
 
 /*-------------
@@ -5915,7 +5915,7 @@ button:focus {
     -webkit-animation: ripple-white 1s linear infinite;
     animation: ripple-blue 1s linear infinite;
     -webkit-transition: .5s;
-    background: #FF3C00;
+    background: #CC2026;
     font-size: 28px;
     z-index: 1;
   }
